@@ -1,0 +1,21 @@
+{
+  "name": "back_end-assignment-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YEWGG/Back_End-assignment-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/YEWGG/Back_End-assignment-3/issues"
+  },
+  "homepage": "https://github.com/YEWGG/Back_End-assignment-3#readme"
+}
