@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/YEWGG/Back_End-assignment-3/issues"
   },
-  "homepage": "https://github.com/YEWGG/Back_End-assignment-3#readme"
+  "homepage": "https://github.com/YEWGG/Back_End-assignment-3#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.1.5"
+  }
 }
